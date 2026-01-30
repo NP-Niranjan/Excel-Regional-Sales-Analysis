@@ -1,7 +1,7 @@
 # Regional Sales Performance Analysis (Excel) 📊
 
 ## Project Overview
-This project analyzes regional sales data for ABC Electronics to evaluate sales performance
+This project analyzes regional sales data for ABC Products to evaluate sales performance
 across different regions and product categories. The goal is to provide management with
 actionable insights using Excel-based analysis and visualization techniques.
 
